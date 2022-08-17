@@ -1,5 +1,5 @@
 {
-  "name": "backend_practice",
+  "name": "node-http",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/anant-vsr/Backend_Practice.git"
   },
-  "author": "anant-vsr",
+  "author": "Anant Vikram Singh Rathore",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anant-vsr/Backend_Practice/issues"
